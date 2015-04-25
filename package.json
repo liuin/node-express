@@ -2,7 +2,7 @@
   "name": "node-express",
   "version": "1.0.0",
   "description": "text",
-  "main": "index.js",
+  "main": "node-express.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/liuin/node-express",
   "dependencies": {
-    "express": "^4.12.3"
+    "express": "^4.12.3",
+    "express3-handlebars": "^0.5.2"
   }
 }
